@@ -1,0 +1,14 @@
+gold_plan:
+  id: 1
+  name: Gold
+  monthly_price: 0
+
+platinum_plan:
+  id: 2
+  name: Platinum
+  monthly_price: 9.99
+
+diamond_plan:
+  id: 3
+  name: Diamond
+  monthly_price: 19.99
